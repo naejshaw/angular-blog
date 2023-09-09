@@ -34,6 +34,8 @@
 .small-card__photo > img{
   width: 200px;
   min-width: 200px;
+  height: 120px;
+  min-height: 120px;
 }
 
 .container__small-card__separator{
